@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @yusufaltunok
 - 👀 I’m interested in ..otomasyon Test.
-- 🌱 I’m currently learning ...
+- 🌱 Şu anda Selenium öğreniyorum.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- yusufaltunok
 - 
 
 <!---
